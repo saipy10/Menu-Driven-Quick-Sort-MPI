@@ -1,1 +1,0 @@
-# Menu-Driven-Quick-Sort-MPI
